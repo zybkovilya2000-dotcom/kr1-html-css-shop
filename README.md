@@ -30,3 +30,7 @@
 ## Текущий статус
 
 Создана базовая структура проекта.
+
+
+## ссылка 
+https://zybkovilya2000-dotcom.github.io/kr1-html-css-shop/
