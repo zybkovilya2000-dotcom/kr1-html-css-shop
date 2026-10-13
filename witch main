@@ -1,0 +1,11 @@
+*   [33me79dd38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Merge pull request #2 from zybkovilya2000-dotcom/feature/html-css-start-page
+[31m|[m[32m\[m  
+[31m|[m * [33mbd8779a[m[33m ([m[1;31morigin/feature/html-css-start-page[m[33m, [m[1;32mfeature/html-css-start-page[m[33m)[m feat: add semantic HTML structure and base CSS styles
+[31m|[m[31m/[m  
+* [33mf4a1fad[m docs: add GitHub Pages link
+*   [33m3826506[m Merge pull request #1 from zybkovilya2000-dotcom/feature/start-page
+[33m|[m[34m\[m  
+[33m|[m * [33m04c25c0[m[33m ([m[1;31morigin/feature/start-page[m[33m, [m[1;32mfeature/start-page[m[33m)[m feat: add project description section
+[33m|[m[33m/[m  
+* [33mda10906[m docs: add project status to README
+* [33m6895916[m feat: initialize frontend project structure
